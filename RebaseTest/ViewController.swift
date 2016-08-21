@@ -14,11 +14,7 @@ class ViewController: UIViewController {
 		super.viewDidLoad()
 		
 		
-		print("Stuff from first")
-		
-		print("Well this is a new change in master")
-		
-		print("wahtever")
+		print("Okay, please work now")
 		
 	}
 	
